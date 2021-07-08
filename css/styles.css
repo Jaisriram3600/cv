@@ -1,0 +1,115 @@
+
+
+body,h1{
+  margin: 0px
+
+}
+h1,p{
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+}
+.header h1{
+  color: #ffff;
+}
+
+h1:hover{
+  color:#191414;
+}
+.header{
+  background-color: #1DB954;
+  text-align: center;
+  position: relative;
+  padding-top:40px;
+}
+.cloud{
+  position:absolute;
+}
+#cloud1{
+  top:50px;
+  left:260px;
+}
+#cloud2{
+  right: 20px;
+}
+.skills{
+
+  width: 50%;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  justify-content: center;
+
+  margin: auto;
+}
+.skills-row img{
+
+
+margin: 20px;
+margin-top: 0px;
+}
+.skills hr{
+  width:10%;
+  text-align: center;
+
+  border-color: black;
+  border-style: dotted;
+  border-width: 10px ;
+  margin-top:60px;
+  margin-bottom: 60px;
+  border-top: 10px;
+
+}
+.end{
+  background-color: #FFFC00;
+  padding:20px;
+
+  margin: auto;
+}
+ .links{
+
+  display: flex;
+  margin: auto;
+  width: 30%;
+  padding-top: 2%;
+  flex-direction: row;
+  justify-content: space-between;
+
+}
+
+a{
+  text-decoration-line: none;
+
+
+}
+ .end h1{
+  border: 2px solid;
+  display: inline;
+  padding: 3px;
+  background-color: white;
+
+}
+.end img{
+  height: 20%;
+  width: 5%;
+
+  position: absolute;
+  right: 24%;
+}
+
+.skills-row p, .skills p{
+
+
+text-align:justify;
+
+line-height: 2;
+font-size: 1.5rem;
+
+}
+.end {
+  text-align: center;
+}
+
+.skillsimg{
+  width: 15%;
+  float: left;
+}
