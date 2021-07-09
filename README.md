@@ -1,3 +1,3 @@
 # cv
 
-CV using HTML
+CV using HTML and CSS
